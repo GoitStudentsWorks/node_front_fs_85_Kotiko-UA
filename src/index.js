@@ -26,7 +26,7 @@ root.render(
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
         <ThemeProvider theme={theme}>
-          <BrowserRouter basename="/we-can-do-it-water-front">
+          <BrowserRouter basename="/node_front_fs_85_Kotiko-UA">
             <App />
             <GlobalStyles />
           </BrowserRouter>
